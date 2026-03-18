@@ -32,13 +32,13 @@ ELSS transforms standard smartphone video into actionable environmental insights
 
 |---------|-------------|
 
-| \[Use Case Diagram](260316\_UseCaseDiagram\_Scott.png) | Shows actors (End User, Cloud Processing) and key system functions |
+| \[Use Case Diagram](./use-case-diagram.png) | Shows actors (End User, Cloud Processing Service) and key system functions including Generate Drainage Overlay, Generate Sun Path Overlay, and Modify Virtual Environment |
 
-| \[Domain Diagram](260310\_DomainDiagramV3.png) | Core domain objects and their relationships |
+| \[Domain Diagram](./domain-diagram.png) | Core domain objects (User, Scan, 3D Model, Overlay, Modification) and their relationships |
 
-| \[Activity Diagram](260310\_ActivityDiagram\_Scott.png) | End-to-end workflow for a farmer assessing a flood-prone field |
+| \[Activity Diagram](./activity-diagram.png) | End-to-end workflow for a farmer assessing a flood-prone field, showing video validation, parallel overlay generation, and optional modification loop |
 
-| \[Data Flow Diagram](260317\_DFD\_Scott.png) | Information flow with trust boundaries and threat annotations |
+| \[Data Flow Diagram](./data-flow-diagram.png) | Information flow with trust boundaries, external entities (Customer, Cloud Processing Service), and threat annotations (T1–T6) |
 
 
 
