@@ -32,13 +32,13 @@ ELSS transforms standard smartphone video into actionable environmental insights
 
 |---------|-------------|
 
-| \[Use Case Diagram](./use-case-diagram.png) | Shows actors (End User, Cloud Processing Service) and key system functions including Generate Drainage Overlay, Generate Sun Path Overlay, and Modify Virtual Environment |
+| [Use Case Diagram](https://github.com/pitekopaga/designs/blob/main/use-case-diagram.png) | Shows actors (End User, Cloud Processing Service) and key system functions including Generate Drainage Overlay, Generate Sun Path Overlay, and Modify Virtual Environment |
 
-| \[Domain Diagram](./domain-diagram.png) | Core domain objects (User, Scan, 3D Model, Overlay, Modification) and their relationships |
+| [Domain Diagram](https://github.com/pitekopaga/designs/blob/main/domain-diagram.png) | Core domain objects (User, Scan, 3D Model, Overlay, Modification) and their relationships |
 
-| \[Activity Diagram](./activity-diagram.png) | End-to-end workflow for a farmer assessing a flood-prone field, showing video validation, parallel overlay generation, and optional modification loop |
+| [Activity Diagram](https://github.com/pitekopaga/designs/blob/main/activity-diagram.png) | End-to-end workflow for a farmer assessing a flood-prone field, showing video validation, parallel overlay generation, and optional modification loop |
 
-| \[Data Flow Diagram](./data-flow-diagram.png) | Information flow with trust boundaries, external entities (Customer, Cloud Processing Service), and threat annotations (T1–T6) |
+| [Data Flow Diagram](https://github.com/pitekopaga/designs/blob/main/data-flow-diagram.png) | Information flow with trust boundaries, external entities (Customer, Cloud Processing Service), and threat annotations (T1–T6) |
 
 
 
