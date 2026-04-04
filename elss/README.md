@@ -30,7 +30,6 @@ ELSS transforms standard smartphone video into actionable environmental insights
 
 | Diagram | Description |
 
-|---------|-------------|
 
 | [Use Case Diagram](https://github.com/pitekopaga/designs/blob/main/elss/use-case-diagram.png) | Shows actors (End User, Cloud Processing Service) and key system functions including Generate Drainage Overlay, Generate Sun Path Overlay, and Modify Virtual Environment |
 
