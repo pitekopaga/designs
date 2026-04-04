@@ -52,14 +52,3 @@ ELSS transforms standard smartphone video into actionable environmental insights
 \- \*\*Overlay Terminology\*\* – Replaced "simulation" with "overlay" for accuracy
 
 \- \*\*Threat Modeling\*\* – STRIDE analysis with T1–T6 mapped to DFD elements
-
-
-
-##### \## Tools Used
-
-
-
-\- Mural – Collaborative diagramming
-
-\- Git / GitHub – Version control
-
